@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá turma! 👋
+
+Link para o guia básico de Markdown:
+* Guia Básico de Markdown: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>
+* Emojis: <https://emojipedia.org/fleur-de-lis/>
+* Badges: <https://dev.to/envoy_/150-badges-for-github-pnk#contact>
+* Repositório estatística de linguagens <https://github.com/anuraghazra/github-readme-stats>
 
 <!--
 **thiagoeliandro/thiagoeliandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
